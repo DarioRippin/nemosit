@@ -1,0 +1,40 @@
+{
+  "name": "nemosit",
+  "version": "1.0.0",
+  "description": "Make CSS easier and more maintainable by using inline style objects",
+  "main": "dist/free-style.js",
+  "files": [
+    "dist/",
+    "typings/",
+    "free-style.d.ts",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarioRippin/nemosit.git"
+  },
+  "typescript": {
+    "definition": "free-style.d.ts"
+  },
+  "keywords": [
+    "style",
+    "placeat",
+    "provident",
+    "react",
+    "aperiam"
+  ],
+  "author": "CoralieSkiles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarioRippin/nemosit.git/issues"
+  },
+  "homepage": "https://github.com/DarioRippin/nemosit.git",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "istanbul": "^0.3.6",
+    "mocha": "^2.1.0",
+    "pre-commit": "^1.0.6",
+    "standard": "^2.6.3",
+    "typescript": "^1.4.1"
+  }
+}
